@@ -1,0 +1,4 @@
+gradio
+pandas
+numbers-parser
+openpyxl
