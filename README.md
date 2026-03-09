@@ -22,6 +22,13 @@
   <em>Gradio 打造的互動式控制面板</em>
 </p>
 
+🛠️ 技術規格與相容性 (Compatibility Note)
+關於檔案格式的特別說明
+本工具目前支援 Apple Numbers 與 Microsoft Excel (.xlsx)。
+
+[!CAUTION]
+Numbers v26+ 版本相容性警示：
+由於 Apple 在 Numbers v26+ 版本中更新了日期編碼協議，目前的開源解析引擎在處理特定日期格時可能會觸發 OverflowError（日期溢位）。
 
 ## 🛠️ 安裝與啟動 (Installation)
 
