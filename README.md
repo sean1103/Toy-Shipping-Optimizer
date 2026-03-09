@@ -22,7 +22,7 @@
   <em>Gradio 打造的互動式控制面板</em>
 </p>
 
-🛠️ 技術規格與相容性 (Compatibility Note)
+### 🛠️ 技術規格與相容性 (Compatibility Note)
 關於檔案格式的特別說明
 本工具目前支援 Apple Numbers 與 Microsoft Excel (.xlsx)。
 
